@@ -99,43 +99,97 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 
-# Indian Bangla
+
+# Sports
 
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/HzfIL6z.jpeg" group-title= "Indian Bangla",Gopal Bhar TV
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1  tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Indian Bangla",Sony Aath
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062415f5c4f320a0d251510627e08411859.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.04b8cdc8fb297c902886b65f6d3ac335?rik=1Wgl3hN%2fhRCprQ&riu=http%3a%2f%2fwww.ethnicchannels.com%2fimages%2fchanneldetail%2fzee-bangla%2fzee-bangla-logo.png&ehk=Dc%2f9rZsW2MdyyY9qi3clJ7deYVT42YiRrjAYZWRIasQ%3d&risl=&pid=ImgRaw&r=0" group-title="Indian Bangla",Zee Bangla
-https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Indian Bangla",Star Jalsha HD
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Sports"  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="Sports",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://nettv4u.com/fileman/Uploads2/-10-Actresses-who-look-gorgeous-in-Red/1/2.2/Colors_Bangla.png",Colors Bangla HD
-https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD"   tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="Sports",Star Sports 1 HD
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456f236b363d09040a5a32711454.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Indian Bangla",Khushboo Bangla
-http://103.175.73.12:8080/live/375/375_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD Hindi"   tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png?raw=true" group-title="Sports",Star Sports 1 HD Hindi
+http://202.70.146.135:8000/play/a01e/index.m3u8
 
-#EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="Indian Bangla",Aakash Aath
-https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-2-in.png?raw=true" group-title="Sports",Star Sports 2 HD
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
-#EXTINF:-1  tvg-id="Enterr10Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian Bangla",Enterr 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-2-in.png?raw=true" group-title="Sports",Star Sports 2 HD Hindi
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456b206b363d09040a5a32711454.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi18Zna-WqTEOHMxqhsuL2fwsLsCBUorHP9YFqQXm-dLV4SNU86zTuxAEJp_Zn4bZuNCqWddBiFlzRAsHS14IzeY2thUg5SFCDIhdJrCEduWrFwm02y2MPJnFeiUgPdaUG4S_e1PEMdugHe-XbfPLjsOXzslSkFYZoIFcFi_7YjBVcTqqNODHPC-WbxdXY/s335/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Indian Bangla",Jalsha Movies HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-3-in.png?raw=true" group-title="Sports",Star Sports 3
+http://rjcf.ofztvxv.top:8080/live/vip4111774539023/b2cd7c34176f/7339.ts
 
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Indian Bangla",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-select-1-in.png?raw=true" group-title="Sports",Star Sports Select 1 HD
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456c216b363d09040a5a32711454.m3u8
 
-#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title=" Indian Bangla",Colors Bangla Cinema
-http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-select-2-in.png?raw=true" group-title="Sports",Star Sports Select 2 HD
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456c276b363d09040a5a32711454.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS KHEL"  tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png",Star Sports Khel
+http://103.175.73.12:8080/live/151/151_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UvbHjlx.png" group-title="Sports",Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk0NjE3YTktODRhZC00NDBhLWFmNmUtMTcyMzQ2NTY5NzgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Sports",Sky Sports Cricket
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-hd-hz-au.png?raw=true" group-title="Sports",Fox Cricket
+http://173.233.87.168sarpeveninos.streamtv.to:8080/live/2rSvsynKRJ/5GHeYZFNwI/135322.m3u8
+
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.2a4305cd81d4fddfac08bb0bb5d652ff?rik=gxfga1PdRjuTIQ&pid=ImgRaw&r=0"  group-title="Sports",Ten Cricket 
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="Sports",Willow Cricket HD
+http://173.233.87.168sarpeveninos.streamtv.to:8080/live/2rSvsynKRJ/5GHeYZFNwI/135320.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="Sports",Willow HD
+https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d11027056541d5a3a1d1c63431d2f7f56465b4f03561b4c.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="Sports",Willow 2
+https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d11027056541d5a3a1d1c63431d2f7f504b554f03561b4c.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="Sports",A Sports HD
+https://go.skym3u.top/live/59a27/3b1f0d3d404f706d343332141b06027223111c124013043857431c52361d562c40053030302c7c040f1611276c0c5f1456.m3u8
+
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh4RWodt2vHLMXNMm68F7LjldV2rZ2i2WpfLUfBSjGWaKhRs7sZE3ZmmPjDD1zMM-HFadMaBHhPgpUNW-yovhXFrP1qZgaFU9R_hSYwMKAuuev_9IJfICxJ63znWmcI_Jd-gu-bXTgN_OTOcSZd9tojLF6w9_ONBay8mTM_QfEWw0BxcQllcYLT-7JE=w400-h400" group-title="Sports",PTV Sports
+https://go.skym3u.top/live/59a27/3b1f0d3d404f706d376e7d0415111a3d264f000818064a0f66661f6523040b39405a2b30253c381e4c04453e734e010e000c4b3201450a.m3u8
+
+#EXTINF:-1  tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/geo-super-logo.png" group-title="Sports",GEO SUPER
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106886&extension=ts&play_token=X6fhziMlgF
+
+#EXTINF:-1  tvg-logo="" group-title="Sports",M Sports
+https://go.skym3u.top/live/59a27/3b1f0d3d404f706d273b3d431313162b234f1f151c0604321d7d1f6523040b39405a362c203a2b430c410167.m3u8
+
+#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pb2cpq1660989326.png" group-title="Sports",FOX Sports 1
+https://go.skym3u.top/live/59a27/3b1f0d3d095a707a7171615e565c4c666c505a51545a5066021f474532460a62753a076f170f1c3f3521596e6d0802050b1b4b3201450a.m3u8
+
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo.png" group-title="Sports",Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 1 HD
+https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062415f5c4f0c18092241012c0f542d05054800535a3260105b.m3u8
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 2
+https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062415f5c4f0c18092241012c0f572d05054800535a3260105b.m3u8
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5
+https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062415f5c4f0c18092241012c0f502d05054800535a3260105b.m3u8
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5 HD
+http://202.70.146.135:8000/play/a09r/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png" group-title="Sports",DD SPORTS
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
 
 
@@ -155,13 +209,13 @@ http://38.96.178.205/SONYHD/index.m3u8
 https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c106248555769271d262557533a6d4b1f5e1456.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CtHWMFZ/Colors-HD100x100.png" group-title="Hindi Entertainment",Colors HD
-http://live.balajibroadband.com:3500/live/144.m3u8
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456f206b363d09040a5a32711454.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="Hindi Entertainment",Dangal TV
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.81Y9Artw2rBDGu_BG_R54wAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Hindi Entertainment",Sony KAL Hindi
-https://go.skym3u.top/live/3b1f0d3d404f707f12071f0d1d0a000d2f3a06170717112c46461c513f041b2c5f5b2b22041c1e0c071140183625004c1a090770040856533609482e03476c6806160c595c0108416b6001075d13457041404669200417345814330f545d010631101d5b3332110601115b3253595c193b070a6243193e29091b1e1540085d0167.m3u8
+https://go.skym3u.top/live/59a27/3b1f0d3d404f706d332a2101121d1a2632080f151b11002c46461c513f041b2c5f5b2b302531200008065a332b17094e060f1670040856533609482e03476c7a273b32555316126a765208054115547041404669200417345814331d75703f0a3e0707702e0018041d174a3253595c193b070a6243193e3b283620194f1f472a7a.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Hindi Entertainment",Shemaroo TV 
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
@@ -221,13 +275,16 @@ https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a3d561f5
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Hindi Movie",Star Gold HD
-http://66.102.126.10:8000/play/a00f/index.m3u8
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456d236b363d09040a5a32711454.m3u8
 
 #EXTINF:-1  tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Hindi Movie",Star Gold 2
 http://66.102.126.10:8000/play/a00g/index.m3u8
 
+#EXTINF:-1  tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Hindi Movie",Star Gold 2 HD
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456b336b363d09040a5a32711454.m3u8
+
 #EXTINF:-1  tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Hindi Movie",Star Gold Romance
-http://66.102.126.10:8000/play/a00r/index.m3u8
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456b766b363d09040a5a32711454.m3u8
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Hindi Movie",Star Gold Select HD
 http://103.253.18.58:8000/play/a02u
@@ -282,7 +339,7 @@ https://cdn-1.pishow.tv/live/224/master.m3u8
 http://103.180.212.191:3500/live/1393.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="Hindi Movie",Sony Max 1
-http://live.balajibroadband.com:3500/live/3418.m3u8
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7073746c7d5c544b5a6e7a5142525a59506f02011d5a3a1d1c6200416e7a6a32601859.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Hindi Movie",Star Gold Thrills
 http://66.102.126.10:8000/play/a00c/index.m3u8
@@ -308,7 +365,7 @@ http://66.102.126.10:8000/play/a020/index.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1  tvg-id="SonyPix.in@HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/dfg9wz6-3a7694ea-1a45-4797-894d-f56ca0317bb2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80MDllZmE2ZS1jNjlhLTQ5NzEtYWM0ZS1hMmE3NmRjZDAyZTUvZGZnOXd6Ni0zYTc2OTRlYS0xYTQ1LTQ3OTctODk0ZC1mNTZjYTAzMTdiYjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NbHzHOxJVzMPXZcRb36yM7e7hVXkU7lQWnb5e3WWAmE" group-title="English Movie",Sony Pix
-http://live.balajibroadband.com:3500/live/762.m3u8
+https://go.skym3u.top/live/59a27/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a0062524569326b363d09040a5a32711454.m3u8
 
 #EXTINF:-1  tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="English Movie",Colors Infinity
 http://103.175.73.12:8080/live/29/29_0.m3u8
@@ -357,97 +414,48 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1681372059-79623485.png?v=10.5.11" group-title="Music",Sangeet Bangla
-http://103.175.73.12:8080/live/379/379_0.m3u8
+https://go.skym3u.top/live/59a27/3b1f0d3d404f706d273b3d40555c043631090316401713705e5944537c5a4879005a3223372b361f4f1f472a7a.m3u8
 
 
 
 
 
-
-# Sports
-
+# Indian Bangla
 
 
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/HzfIL6z.jpeg" group-title= "Indian Bangla",Gopal Bhar TV
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1  tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Indian Bangla",Sony Aath
+https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062415f5c4f320a0d251510627e08411859.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="T Sports"  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="Sports",T Sports
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.04b8cdc8fb297c902886b65f6d3ac335?rik=1Wgl3hN%2fhRCprQ&riu=http%3a%2f%2fwww.ethnicchannels.com%2fimages%2fchanneldetail%2fzee-bangla%2fzee-bangla-logo.png&ehk=Dc%2f9rZsW2MdyyY9qi3clJ7deYVT42YiRrjAYZWRIasQ%3d&risl=&pid=ImgRaw&r=0" group-title="Indian Bangla",Zee Bangla
+https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD"   tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="Sports",Star Sports 1 HD
-http://tvsen7.aynascope.net/sspts1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Indian Bangla",Star Jalsha HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD Hindi"   tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png?raw=true" group-title="Sports",Star Sports 1 HD Hindi
-http://202.70.146.135:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettv4u.com/fileman/Uploads2/-10-Actresses-who-look-gorgeous-in-Red/1/2.2/Colors_Bangla.png",Colors Bangla HD
+https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-2-in.png?raw=true" group-title="Sports",Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Indian Bangla",Khushboo Bangla
+http://103.175.73.12:8080/live/375/375_0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-3-in.png?raw=true" group-title="Sports",Star Sports 3
-http://rjcf.ofztvxv.top:8080/live/vip4111774539023/b2cd7c34176f/7339.ts
+#EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="Indian Bangla",Aakash Aath
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-select-1-in.png?raw=true" group-title="Sports",Star Sports Select 1 HD
-https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456c334a1b03050b1d40196c265d.m3u8
+#EXTINF:-1  tvg-id="Enterr10Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian Bangla",Enterr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-select-2-in.png?raw=true" group-title="Sports",Star Sports Select 2 HD
-https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456c354a1b03050b1d40196c265d.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi18Zna-WqTEOHMxqhsuL2fwsLsCBUorHP9YFqQXm-dLV4SNU86zTuxAEJp_Zn4bZuNCqWddBiFlzRAsHS14IzeY2thUg5SFCDIhdJrCEduWrFwm02y2MPJnFeiUgPdaUG4S_e1PEMdugHe-XbfPLjsOXzslSkFYZoIFcFi_7YjBVcTqqNODHPC-WbxdXY/s335/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Indian Bangla",Jalsha Movies HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS KHEL"  tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png",Star Sports Khel
-http://103.175.73.12:8080/live/151/151_0.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Indian Bangla",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UvbHjlx.png" group-title="Sports",Cricket Gold
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
-
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk0NjE3YTktODRhZC00NDBhLWFmNmUtMTcyMzQ2NTY5NzgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Sports",Sky Sports Cricket
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-hd-hz-au.png?raw=true" group-title="Sports",Fox Cricket
-http://173.233.87.168sarpeveninos.streamtv.to:8080/live/2rSvsynKRJ/5GHeYZFNwI/135322.m3u8
-
-#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.2a4305cd81d4fddfac08bb0bb5d652ff?rik=gxfga1PdRjuTIQ&pid=ImgRaw&r=0"  group-title="Sports",Ten Cricket 
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="Sports",Willow Cricket HD
-http://173.233.87.168sarpeveninos.streamtv.to:8080/live/2rSvsynKRJ/5GHeYZFNwI/135320.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="Sports",Willow HD
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d11027056541d5a3a1d1c63431d2f7f56465b4f03561b4c.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="Sports",Willow 2
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d11027056541d5a3a1d1c63431d2f7f504b554f03561b4c.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="Sports",A Sports HD
-https://go.skym3u.top/live/3b1f0d3d404f707f164143081a0600163b7d090a04005b2c5742445321464d6240012d35041f420026375e171b3c132f082047125b044a79005f01034a41271d1f195b2e2a245b391c6a0a013a28020e647e45546021492e031d1a1c084217053a0240196c265d.m3u8
-
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh4RWodt2vHLMXNMm68F7LjldV2rZ2i2WpfLUfBSjGWaKhRs7sZE3ZmmPjDD1zMM-HFadMaBHhPgpUNW-yovhXFrP1qZgaFU9R_hSYwMKAuuev_9IJfICxJ63znWmcI_Jd-gu-bXTgN_OTOcSZd9tojLF6w9_ONBay8mTM_QfEWw0BxcQllcYLT-7JE=w400-h400" group-title="Sports",PTV Sports
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d11027056541d5a3a1d1c7e1d0537204a46585140085d0167.m3u8
-
-#EXTINF:-1  tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/geo-super-logo.png" group-title="Sports",GEO SUPER
-http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106886&extension=ts&play_token=X6fhziMlgF
-
-#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pb2cpq1660989326.png" group-title="Sports",FOX Sports
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo.png" group-title="Sports",Caze TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 1 HD
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062415f5c4f0c18092241012c0f542d05054800535a3260105b.m3u8
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 2
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062415f5c4f0c18092241012c0f572d05054800535a3260105b.m3u8
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062415f5c4f0c18092241012c0f502d05054800535a3260105b.m3u8
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5 HD
-http://202.70.146.135:8000/play/a09r/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png" group-title="Sports",DD SPORTS
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title=" Indian Bangla",Colors Bangla Cinema
+http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
 
 
 
